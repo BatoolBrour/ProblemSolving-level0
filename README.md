@@ -5,7 +5,6 @@ This repository contains my solutions to programming problems from different pla
 ## Platforms
 - Codeforces
 - LeetCode
-- UVA
 
 ## Languages
 - C++
