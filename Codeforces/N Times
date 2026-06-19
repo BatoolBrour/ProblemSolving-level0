@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std ; 
+string Copy(int t,char c){
+    string copies="";
+    for(int i=1;i<=t;i++){
+        copies+=c;
+        copies+=" ";}
+    return copies;
+}
+int main()
+{
+   int test ; cin>>test; int times[test];char copy[test];
+   for(int i=0;i<test;i++){
+   cin>>times[i];cin>>copy[i];}
+   for(int i=0;i<test;i++){
+       if(i<test-1)
+       cout<<Copy(times[i],copy[i])<<endl;
+       else cout<<Copy(times[i],copy[i]);
+   }
+    return 0;
+}
