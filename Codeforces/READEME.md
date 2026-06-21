@@ -35,3 +35,10 @@
 - **Difficulty:** Easy
 - **Platform:** Codeforces (Assiut Sheet)
 - **Status:** Solved
+
+- ## #7 Average 
+- **Link:** https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/J
+- **Difficulty:** Easy
+- **Platform:** Codeforces (Assiut Sheet)
+- **Status:** Solved
+
